@@ -1,1 +1,1 @@
-# Potato-Leaf-Disease-Detection-using-Deep-Learning
+# Potato Early Blight and Late Blight Disease Detection and Classification of Leaves Using CNN
